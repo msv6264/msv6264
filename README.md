@@ -17,14 +17,16 @@
 Here are a few technologies I love working with:  
 
 ### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+[![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) 
 
 ### 🌐 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js)](https://skillicons.dev)
+
+### 🎮 Version control
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### 🧑🏻‍💻 Code editors
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 
@@ -39,7 +41,6 @@ Here are a few technologies I love working with:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
 </div>
 
 
