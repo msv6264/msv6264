@@ -20,7 +20,10 @@ Here are a few technologies I love working with:
 [![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) 
 
 ### 🌐 Frontend Development  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,tailwind,bootstrap)](https://skillicons.dev)
+
+### 🛜 Backend Development
+[![My Skills](https://skillicons.dev/icons?i=flask,py)](https://skillicons.dev)
 
 ### 🎮 Version control
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
