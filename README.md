@@ -8,10 +8,10 @@
 
 ## 💻 About Me  
 
-✨ AIML student passionate about **Frontend + AI Development**  
-🚀 Building real-world projects & exploring backend systems  
-🎯 Goal: Become a **strong AI Engineer & Product Builder**  
-💡 I love creating **interactive + meaningful user experiences**  
+✨ Web developer who loves to solve problems through code
+🛠️ Fix the broken things and break the fixed things 
+🚀 Started to make my hands dirty with backend
+🌱 Loves to learn like always :)
 
 ---
 
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=msv6264&theme=radical&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=msv6264&theme=radical&border_radius=10&v=1" />
 </p>
 
 ---
