@@ -18,13 +18,13 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,py,js)](https://skillicons.dev) 
 
 ### 🌐 Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### 🛜 Backend  
-[![My Skills](https://skillicons.dev/icons?i=flask,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,py,nodejs,express,fastapi)](https://skillicons.dev)
 
 ---
 
