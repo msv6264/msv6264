@@ -8,9 +8,9 @@
 
 ## 💻 About Me  
 
-✨ Web developer who loves to solve problems through code
-🛠️ Fix the broken things and break the fixed things 
-🚀 Started to make my hands dirty with backend
+✨ Web developer who loves to solve problems through code <br>
+🛠️ Fix the broken things and break the fixed things <br>
+🚀 Started to make my hands dirty with backend <br>
 🌱 Loves to learn like always :)
 
 ---
