@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Sri Vaishnavi 🌟</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F772B2&center=true&vCenter=true&lines=👋🏻+Hello!+Welcome+to+my+GitHub+Profile;🎓+AIML+Undergraduate;👩‍💻+Frontend+%2B+AI+Builder;" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F772B2&center=true&vCenter=true&lines=👋🏻+Hello!+Welcome+to+my+GitHub+Profile;🎓+AIML+Undergraduate;👩‍💻+Web+developer+%2B+AI+Builder;" />
 </p>
 
 ---
