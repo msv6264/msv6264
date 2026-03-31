@@ -8,9 +8,10 @@
 
 ## 💻 About Me  
 
-✨ Web developer who loves to solve problems through code <br>
-🛠️ Fix the broken things and break the fixed things <br>
-🚀 Started to make my hands dirty with backend <br>
+👩🏻‍💻 Currently building DocForU, which is an AI-powered document and presentation generator that creates structured DOCX and PPT files from user-defined topics and sections. <br>
+🚧 Template-based document generation coming soon <br>
+🔐 Authentication & saved documents coming in next version <br> <br>
+🛠️ I fix the broken things and break the fixed things <br>
 🌱 Loves to learn like always :)
 
 ---
