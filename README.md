@@ -32,12 +32,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=msv6264&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=msv6264&layout=compact&theme=radical" height="150px"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=msv6264&show_icons=true&theme=radical&cache_seconds=1800&v=2"
+    height="150px"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=msv6264&layout=compact&theme=radical&cache_seconds=1800&v=2"
+    height="150px"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=msv6264&theme=radical&border_radius=10&v=1" />
+  <img
+    src="https://streak-stats.demolab.com?user=msv6264&theme=radical&border_radius=10&v=2"
+  />
 </p>
 
 ---
