@@ -8,11 +8,12 @@
 
 ## 💻 About Me  
 
-👩🏻‍💻 Currently building DocForU, which is an AI-powered document and presentation generator that creates structured DOCX and PPT files from user-defined topics and sections. <br>
-🚧 Template-based document generation coming soon <br>
-🔐 Authentication & saved documents coming in next version <br> <br>
-🛠️ I fix the broken things and break the fixed things <br>
-🌱 Loves to learn like always :)
+🧠 Currently building Velora, a personal knowledge hub for saving, organizing, and rediscovering learning resources. <br>
+📚 Manage articles, videos, repositories, PDFs, courses, and tools through collections designed for intentional learning. <br>
+✨ Daily Rediscovery helps surface forgotten gems from your library. <br>
+🚧 Chrome Extension & AI-assisted resource capture coming soon. <br>
+🛠️ Building in public, learning by doing. <br>
+🌱 Curious about AI, products, and lifelong learning.<br>
 
 ---
 
